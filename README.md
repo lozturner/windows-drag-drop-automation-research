@@ -8,8 +8,7 @@ This repository contains research and findings on automating Windows drag-and-dr
 
 ### 1. ShareX Integration 📸
 
-![ShareX Developer View](https://pplx-res.cloudinary.com/image/upload/v1738450991/user_uploads/zldjgbqpn/image.jpg)
-
+![ShareX Developer View - Technology Stack Architecture](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/f667f9e8-413d-4b80-bc0a-3127905bbe19.png)
 **Key Technologies:**
 - ⚡ ShareX automation capabilities
 - 🔧 IDropTarget interface implementation
@@ -34,8 +33,7 @@ This repository contains research and findings on automating Windows drag-and-dr
 └─────────────────────────────────────┘
 ```
 
-![Drag-Drop Operation Live View](https://pplx-res.cloudinary.com/image/upload/v1738450994/user_uploads/zjybzkvuc/image.jpg)
-
+![Event Flow & Hook Interception Points](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/73138816-3d52-4c1f-9a43-d3a82eecb7cc.png)
 ### 3. Real-Time Developer View 🔍
 
 This shows the actual desktop with ShareX on the left, drag gesture in progress, Miro receiving on the right, with debug console showing live hook messages:
@@ -46,8 +44,7 @@ This shows the actual desktop with ShareX on the left, drag gesture in progress,
 - `grfKeyState=MK_LBUTTON`
 - `pdwEffect=DROPEFFECT_COPY`
 
-![ShareX and Miro Integration](https://pplx-res.cloudinary.com/image/upload/v1738450998/user_uploads/btzksvbps/image.jpg)
-
+![Real-Time Developer View - Live Operation](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/51a9472a-822c-4407-9a92-91052960388c.png)
 ## 🛠️ Technical Stack
 
 ### Required Components:
